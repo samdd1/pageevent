@@ -73,10 +73,10 @@ body , html {
 
 
 
-@media (max-width: 750x) {
+@media (max-width: 75x) {
   #background-video { display: none; }
   body {
-    background: url("dj-1531431.jpg") no-repeat;
+    background: url("main.mp4") no-repeat;
     background-size: cover;
   }
 }
